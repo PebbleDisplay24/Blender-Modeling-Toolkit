@@ -14,7 +14,7 @@ Speed up mesh operations, automate UV unwrapping, batch-process materials, optim
 
 ---
 
-## ⚠️ Disclaimer
+## ⚠️⚠️ Disclaimer
 
 > This project is shared **for educational and personal use only**.  
 > We are **not affiliated** with the Blender Foundation.  
