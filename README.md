@@ -146,4 +146,4 @@ MIT License — shared for educational purposes only.
 If this toolkit made your **Blender** workflow faster and smoother 🔥 — drop a ⭐!  
 It helps other 3D artists find the **best Blender modeling tools** in 2026. 🎨🔷
 
----
+--- 
